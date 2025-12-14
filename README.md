@@ -15,7 +15,7 @@
 
 <div align="center">
   <!-- Текст о себе на английском -->
-  🔭 I’m currently working on <b>AI-prompt-engineer tools</b><br/>
+  🔭 I’m currently working on <b>useful AI-tools</b><br/>
   🌱 I’m currently learning <b>Machine Learning & Advanced Python</b><br/>
   💬 Ask me about <b>Python, AI & Automation</b><br/>
   ⚡ Fun fact: <b>I love automating boring tasks</b>
