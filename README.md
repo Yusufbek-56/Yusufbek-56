@@ -23,7 +23,7 @@
 
 <div align="center">
 <h3>💻 The Arsenal</h3>
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github,docker,linux,bash,pytorch,md,notion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github,docker,linux,bash,pytorch,md,notion,react&theme=dark" />
 </div>
 
 <div align="center">
