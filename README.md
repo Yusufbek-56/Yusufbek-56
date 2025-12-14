@@ -9,7 +9,7 @@
 <!-- 2. ЦИТАТА "С ДУШОЙ" (I, ROBOT) -->
 <!-- Оформлена как цитата кода или диалог -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Detective:+Can+a+robot+write+a+symphony%3F+Can+a+robot+take+a+blank+canvas+and+turn+it+into+a+masterpiece%3F;Sonny:+Can+you%3F" alt="I, Robot Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Detective:+Can+a+robot+write+a+symphony%3F;+Can+a+robot+take+a+blank+canvas+and+turn+it+into+a+masterpiece%3F;Sonny:+Can+you%3F" alt="I, Robot Quote" />
 </p>
 
 <br/>
