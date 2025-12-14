@@ -14,9 +14,6 @@
 🌱 <b>Learning:</b> LLM Fine-tuning & Algorithms<br/>
 ⚡ <b>Philosophy:</b> <i>"Code is poetry written by machines."</i>
 </p>
-<a href="https://github.com/Yusufbek-56">
-<img src="https://img.shields.io/badge/Check_My_Activity-EFF1F5?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
 </td>
 <td width="45%" align="center" valign="middle">
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="AI Brain GIF" style="border-radius: 10px;"/>
